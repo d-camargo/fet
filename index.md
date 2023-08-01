@@ -20,6 +20,7 @@ das vias. Sinalização viária. Estudo de tráfego.
   - Características dos usuários
   - Características das vias
   - Características dos veículos
+
 ### Módulo 2
 - Estudos de engenharia de tráfego
   - Revisão sobre estatística
@@ -28,12 +29,14 @@ das vias. Sinalização viária. Estudo de tráfego.
     - Conceitos sobre amostragem
   - Estudos de velocidade
   - Estudos de volume de tráfego
+ 
  ### Módulo 3
 - Parâmetros teóricos e práticos do fluxo contínuo de veículos
   - Volume x Densidade x Velocidade
 - Cálculo de Nível de Serviço considerando o HCM
   - Freeway
   - Multilane Highway
+ 
  ### Módulo 4
 - Onda de choque em correntes de tráfego
   - Velocidade da onda de choque
