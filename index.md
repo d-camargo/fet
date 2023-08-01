@@ -1,3 +1,43 @@
+#Fundamentos de Engenharia de Tráfego - **G00FUNET**
+Professor: [Diego Camargo](./another-page.html).
+Período Letivo: 2º Semestre/2023
+Carga Horária:  60 horas	Semanal: 04 aulas		Créditos: 04
+Modalidade: Teórica
+
+##Ementa
+Conceitos, divisão e objetivos da engenharia de tráfego. Características humanas. Características dos veículos. Características
+das vias. Sinalização viária. Estudo de tráfego.
+
+##Cronograma
+###Modulo 1
+- Apresentação da disciplina
+- Introdução à Engenharia de tráfego
+- Componentes do sistema de transporte
+  - Características dos usuários
+  - Características das vias
+  - Características dos veículos
+###Módulo 2
+- Estudos de engenharia de tráfego
+  - Revisão sobre estatística
+    - Medidas de tendência central
+    - Medidas de dispersão
+    - Conceitos sobre amostragem
+  - Estudos de velocidade
+  - Estudos de volume de tráfego
+ ###Módulo 3
+- Parâmetros teóricos e práticos do fluxo contínuo de veículos
+  - Volume x Densidade x Velocidade
+- Cálculo de Nível de Serviço considerando o HCM
+  - Freeway
+  - Multilane Highway
+ ###Módulo 4
+- Onda de choque em correntes de tráfego
+  - Velocidade da onda de choque
+  - Duração e dissipação da onda de choque
+- Introdução à alocação de tráfego
+  - Processo de otimização de rotas
+  - Principais métodos de alocação de tráfego
+
 ---
 layout: default
 ---
